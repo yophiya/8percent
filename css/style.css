@@ -582,19 +582,20 @@ common
 
 .article-right {
     float: right;
-    width: 65%;
+    width: 60%;
     margin-bottom: 25px;
 }
 
 .article-left {
     float: left;
-    width: 65%;
+    width: 60%;
     margin-bottom: 25px;
 }
 
 .article-center{
 	width: 100%;
 	margin-bottom: 25px;
+    padding-top: 70px;
 }
 
 .gray-back {
