@@ -286,7 +286,9 @@ common
 .inner {
     width: 90%;
     max-width: 1260px;
-    margin: 0 auto;
+    margin-left: 5%;
+    margin-right: 5%;
+    
 }
 
 
@@ -539,7 +541,7 @@ common
 
 /* headline-foodwaste ---------------------*/
 
-.headline-waste {
+.headline-about8per {
     padding: 70px 0 50px;
     font-weight: 600;
 }
@@ -565,33 +567,9 @@ common
     font-size: .2rem;
 }
 
-
-
-.illust-left {
-    float: left;
-    width: 35%;
+.illust-center{
+    width:100%;
     margin-bottom: 25px;
-}
-
-.illust-right {
-    float: right;
-    width: 35%;
-    margin-bottom: 25px;
-}
-
-
-.article-right {
-    float: right;
-    width: 60%;
-    margin-bottom: 25px;
-    font-weight: bold;
-}
-
-.article-left {
-    float: left;
-    width: 60%;
-    margin-bottom: 25px;
-    font-weight: bold;
 }
 
 .article-center{
@@ -601,8 +579,23 @@ common
     font-weight: bold;
 }
 
-.gray-back {
-    background: #f7f7f7;
+.article1{
+    background-color: #ffe4c4;
+    padding: 25px;
+}
+
+.article2{
+    background-color: #fffacd;
+    padding: 25px;
+}
+
+.article3{
+    background-color: #ffe4e1;
+    padding: 25px;
+}
+
+.article4{
+    background-color: #f7f7f7;
     padding: 25px;
 }
 
@@ -1125,7 +1118,7 @@ footer
 --------------------------------*/
 footer {
     padding: 50px 0;
-    background: #5B0404;
+    background: #f7f7f7;
     margin-top: 50px;
 }
 
