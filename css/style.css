@@ -602,6 +602,10 @@ common
     margin-bottom: 70px;
 }
 
+.empty{
+    height: 50px;
+}
+
 .kikkake-left{
     float: left;
     width: 30%;
