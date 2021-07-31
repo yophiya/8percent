@@ -483,11 +483,6 @@ common
 
 /* headline ---------------------*/
 
-.headline {
-    text-align: center;
-    padding: 60px 0 50px;
-}
-
 .headline.white > *{
     color: #fff!important;
 }
@@ -541,10 +536,35 @@ common
 
 /* headline-foodwaste ---------------------*/
 
-.headline-about8per {
-    padding: 70px 0 50px;
+.headline{
+    font-size: 18px;
+    margin-top: 50px;
+    margin-bottom: 50px;
     font-weight: 600;
+    text-align: center;
 }
+
+.headline-kikkake{
+    padding: 5px;/*文字周りの余白*/
+    border-left: solid 5px #ffa500;/*左線（実線 太さ 色）*/
+    height: 30px;
+    display: inline-block;
+    width: 100%;
+    font-size: 20px;
+}
+.headline-kikkake2{
+    padding: 5px;/*文字周りの余白*/
+    height: 40px;
+    display: inline-block;
+    width: 100%;
+    font-size: 20px;
+}
+
+.pattern2{
+    color: #ffa500;
+    font-size: 40px;
+}
+
 
 .number {
     font-size: 0.6rem;
@@ -565,6 +585,25 @@ common
 
 .headline-waste-jp {
     font-size: .2rem;
+    text-align: center;
+}
+
+.kikkake{
+    margin-bottom: 70px;
+}
+
+.kikkake-left{
+    float: left;
+    width: 30%;
+}
+
+.kikkake-right{
+    float: right;
+    width: 60%;
+}
+
+.illust{
+    width: 100%;
 }
 
 .illust-center{
@@ -584,10 +623,17 @@ common
     margin-bottom: 25px;
 }
 
+.article{
+    padding: 25px;
+    background-color: #f7f7f7;
+    margin-bottom: 25px;
+    font-weight: bold;
+}
+
 .article-center{
 	width: 100%;
 	margin-bottom: 25px;
-    padding-top: 70px;
+    padding-top: 20px;
     font-weight: bold;
 }
 
@@ -610,23 +656,21 @@ common
     padding: 25px;
 }
 
-.kikkake{
-    background-color: #f7f7f7;
-    padding: 25px;
-}
 
 /* header banner---------------------*/
 
 .head-bnr{
-    width: 100%;
+    width: 80%;
     padding:50px;
     box-sizing: border-box;
-    background: #5b0404;
-    transform: translateY(-60px);
-    margin-bottom: -60px;
+    background: #ffd900;
+    transform: translateY(-100px);
     box-shadow: 5px 10px 20px rgba(0,0,0,0.2);
-    overflow: hidden;
     position: relative;
+    font-weight: bold;
+    display: block;
+    margin-left: auto;
+    margin-right: auto
 }
 
 
@@ -634,38 +678,7 @@ common
 
 .head-bnr.home {
     padding: 25px 50px;
-}
-
-.head-bnr.page{
-}
-
-.head-bnr:before {
-    width: 600px;
-    height: 600px;
-    border-radius: 320px;
-    background: #9e0404;
-    content: '';
-    margin: auto;
-    position: absolute;
-    left: calc(0% - 300px);
-    top: calc(0% - 300px);
-    z-index: -9;
-    opacity: .9;
-}
-
-.head-bnr:after {
-    width: 600px;
-    height: 600px;
-    border-radius: 320px;
-    background: #db7d00;
-    content: '';
-    margin: auto;
-    position: absolute;
-    right: calc(0% - 300px);
-    bottom: calc(0% - 300px);
-    z-index: -9;
-    opacity: .9;
-}
+}.
 
 /* home---------*/
 
