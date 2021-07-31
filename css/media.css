@@ -1,0 +1,2164 @@
+@charset "UTF-8";
+
+
+
+
+@media only screen and (max-height: 880px) {
+	
+.side-nav {
+    overflow: scroll;
+}
+
+.side-nav-bottom {
+    position: absolute;
+    position: static;
+    margin-top: 50px;
+    width: 100%;
+}
+
+}
+
+
+@media only screen and (max-width: 1224px) {
+
+
+/* banner download2 ---------------------*/
+
+.bnr-download2 {
+
+}
+
+
+.bnr-download2-img {
+ 	width: 100%;
+    height: 300px;
+}
+
+.bnr-download2-head {
+}
+
+.bnr-download2-info {
+    width: 100%;
+    margin: 0 0 30px;
+}
+.bnr-download2-logo {
+    width: 100px;
+    margin: 30px auto 0;
+}
+
+.bnr-download2-text {
+    font-size: 0.12rem;
+    letter-spacing: .1em;
+    margin: 15px 0;
+}
+
+.bnr-download2-badge {
+    width: 230px;
+}
+
+.bnr-download2-badge a {
+
+}
+.bnr-download2-badge a:first-child {
+
+}
+
+}
+
+
+@media only screen and (max-width: 1024px) {
+
+
+html{
+
+}
+
+
+body{
+
+
+}
+
+
+/* ============================================================
+
+set
+
+============================================================ */
+
+a{
+}
+
+ul{
+
+}
+
+ul li{
+
+}
+
+.mw {
+
+}
+
+.ri{
+
+}
+
+
+.pc{
+
+} 
+
+.sp{
+
+} 
+
+.b-r5{
+
+}
+
+.b-r10{
+
+}
+
+.b-r20{
+
+}
+
+
+/*---------------------------------
+hamburger
+---------------------------------*/
+
+.hamburger-box {
+	display: block;
+}
+
+
+.hamburger,
+.hamburger span {
+}
+
+
+.hamburger {
+
+}
+
+
+.hamburger span {
+
+}
+.hamburger span:nth-of-type(1) {
+}
+.hamburger span:nth-of-type(2) {
+
+}
+.hamburger span:nth-of-type(3) {
+
+}
+
+
+
+.hamburger.active {
+
+}
+
+
+
+.hamburger.active span:nth-of-type(1) {
+
+}
+
+.hamburger.active span:nth-of-type(2) {
+
+}
+
+@-webkit-keyframes active-menu-bar02 {
+	100% {
+	}
+}
+@keyframes active-menu-bar02 {
+	100% {
+
+	}
+}
+.hamburger.active span:nth-of-type(3) {
+
+}
+
+
+/*--------------------------------------------------
+	
+common
+
+--------------------------------------------------*/
+#wrapper {
+    width: 100%;
+}
+
+
+.inner {
+
+}
+
+.other-page {
+    margin-top: 40px;
+    margin-bottom: 80px;
+}
+
+
+
+/* button ---------------------*/
+
+.button-area {
+
+}
+
+.button {
+
+}
+
+
+.button.dark-red {
+
+}
+
+
+.button.ocher{
+
+}
+
+
+.button.white {
+ 
+}
+/* 2col ---------------------*/
+
+.item-2col {
+
+}
+
+.item-2col:nth-child(2n) {
+ 
+}
+
+
+/* 3col ---------------------*/
+
+
+
+    
+    
+.item-3col {
+
+}
+
+.item-3col:nth-child(3n) {
+
+}
+
+
+/* 4col ---------------------*/
+
+.item-4col {
+
+}
+
+.item-4col:nth-child(4n) {
+
+}
+
+/* 6col ---------------------*/
+
+.item-6col {
+
+}
+
+.item-6col:nth-child(6n) {
+
+}
+
+
+.item-6col img{
+
+}
+/* illust-3col ---------------------*/
+
+.item-illust-3col {
+
+}
+
+.item-title {
+
+}
+
+.item-desc {
+}
+
+
+.item-day {
+
+}
+
+.news-thumb {
+
+}
+
+/* illust-4col ---------------------*/
+
+.item-illust-4col {
+
+
+}
+
+.item-title {
+
+}
+
+/* award ---------------------*/
+.item-illust-award {
+
+}
+
+.award-text {
+
+}
+
+/* media ---------------------*/
+.item-illust-award {
+
+}
+
+.award-text {
+
+}
+
+
+/* illust ---------------------*/
+
+.item-illust {
+
+}
+
+.item-title {
+
+}
+
+
+/* headline ---------------------*/
+
+.headline {
+
+}
+
+.headline.white > *{
+
+}
+
+.headline-en{
+
+}
+
+.headline-en:before {
+
+}
+
+.headline-en:after {
+
+}
+
+.headline.white > .headline-en:before{
+
+}
+.headline.white > .headline-en:after{
+ 
+}
+
+
+
+.headline-jp {
+
+}
+
+
+/* headline-foodwaste ---------------------*/
+
+.headline-waste {
+
+}
+
+.number {
+
+}
+
+
+.headline-waste-txt {
+
+}
+
+
+.headline-waste-en{
+ 
+}
+
+
+.headline-waste-jp {
+
+}
+
+
+
+.illust-left {
+
+}
+
+.illust-right {
+
+}
+
+
+.article-right {
+
+}
+
+.article-left {
+
+}
+
+.article-center{
+
+}
+
+.gray-back {
+
+}
+
+/* header banner---------------------*/
+
+.head-bnr{
+
+}
+
+.head-bnr.home {
+    padding: 30px 60px 30px 20px;
+}
+
+.head-bnr.page{
+}
+
+.head-bnr:before {
+
+}
+
+.head-bnr:after {
+ 
+}
+
+/* home---------*/
+
+.bnr-download1-mock {
+
+}
+
+.bnr-download1-mock img {
+
+}
+.bnr-download1-info {
+
+}
+
+.bnr-download1-logo {
+
+}
+
+.bnr-download1-text {
+
+}
+
+.bnr-download1-badge {
+
+}
+
+.bnr-download1-badge a {
+
+}
+
+.bnr-download1-badge a:first-child {
+
+}
+/* page---------*/
+
+.head-bnr-txt-left {
+
+}
+
+.head-bnr-txt-right {
+
+}
+
+/* banner download2 ---------------------*/
+
+.bnr-download2 {
+
+}
+
+
+.bnr-download2-img {
+ 
+}
+
+
+.bnr-download2-head {
+	
+}
+
+.bnr-download2-info {
+ 
+}
+
+.bnr-download2-logo {
+
+}
+
+.bnr-download2-text {
+
+}
+
+.bnr-download2-badge {
+
+}
+.bnr-download2-badge a {
+
+}
+.bnr-download2-badge a:first-child {
+
+}
+
+/*  banner food waste  ---------------------*/
+
+.bnr-foodwaste {
+
+}
+
+
+.bnr-foodwaste-text {
+
+}
+.bnr-foodwaste-head {
+  
+}
+
+.bnr-foodwaste-logo {
+
+}
+
+
+/* banner shop ---------------------*/
+
+.bnr-shop {
+
+}
+
+/* price text ---------------------*/
+
+
+.price-text {
+
+}
+
+
+.price-headline {
+  
+}
+
+.price-illust {
+
+}
+
+
+
+/* FAQ ---------------------*/
+
+.accordion ul {
+
+}
+.accordion li {
+
+}
+.accordion li:first-child {
+
+}
+
+.accordion > ul > li > a {
+
+}
+.accordion > ul > li > a h5:hover {
+
+}
+.accordion > ul > li > p {
+  
+}
+
+.accordion li .accordion_icon,
+.accordion li .accordion_icon span {
+
+}
+.accordion li .accordion_icon {
+ 
+}
+
+
+.accordion li .accordion_icon span {
+
+}
+.accordion li .accordion_icon span:nth-of-type(1) {
+
+}
+.accordion li .accordion_icon span:nth-of-type(2) {
+
+}
+.accordion li .accordion_icon.active span:nth-of-type(1) {
+
+}
+.accordion li .accordion_icon.active span:nth-of-type(2) {
+
+}
+
+
+
+/*--------------------------------------------------
+	
+layout
+
+--------------------------------------------------*/
+
+
+/*--------------------------------
+side bar
+--------------------------------*/
+
+.side-cover{
+	display: none;
+	position: fixed;
+	z-index: 999;
+	width: 100%;
+	height: 100vh;
+	overflow: hidden;
+	transition: all .6s; 
+}
+
+.side-cover.open{
+
+	background: rgba(0, 0, 0, 0.5);
+
+}
+
+.side-nav {
+    overflow: scroll;
+    padding: 30px;
+	width: 320px;
+    margin-left: -90%;
+	transition: all .6s;    
+}
+
+.side-nav.open {
+	 margin-left: 0;
+	
+}
+
+
+/* footer-logo ---------------------*/
+
+#logo {
+    width: 60%;
+    margin-top: 10px;
+}
+
+h1 {
+ 
+}
+
+
+/* nav ---------------------*/
+
+.side-nav-menu {
+    margin-bottom: 40px;
+}
+
+.side-nav-menu li {
+    margin-bottom: 15px;
+}
+
+.side-nav-menu li a{
+ 
+}
+
+
+.menu-icon {
+ 
+}
+
+/* side bottom ---------------------*/
+
+.side-nav-bottom {
+    position: static;
+    width: 100%;
+}
+
+
+.side-sns {
+
+}
+
+.side-sns-shareme {
+	 margin-bottom: 15px;
+}
+
+.icon-sns {
+    padding-top: 3px;
+}
+
+
+.side-banner{
+
+}
+
+.side-app {
+ 
+}
+
+
+.side-app-icon {
+ 
+}
+
+.side-app-text{
+   
+}
+
+
+.side-app-banner {
+
+}
+
+.side-app-banner a {
+
+}
+.side-app-banner a:first-child {
+
+}
+
+
+
+/*--------------------------------
+footer
+--------------------------------*/
+footer{
+
+}
+
+
+.footer-nav-menu {
+
+}
+
+.footer-nav-menu li {
+
+}
+
+.footer-nav-menu li a{
+
+}
+
+
+.footer-logo {
+ 
+}
+
+
+
+
+.sns {
+ 
+}
+
+.sns ul li {
+
+}
+.footer-sns {
+
+}
+
+.copyright{
+
+
+}
+
+
+/*--------------------------------
+home
+--------------------------------*/
+
+#main-visual{
+	
+}
+.main-visual-text {
+
+}
+
+.main-visual-head {
+
+}
+
+
+.main-visual-desc {
+ 
+}
+
+.scroll {
+
+}
+
+.scroll:after {
+
+}
+
+
+.flow{
+
+}
+
+.flow:after {
+
+}
+
+
+.flow:last-child:after {
+
+}
+
+
+/*--------------------------------
+page
+--------------------------------*/
+
+
+#page-head {
+
+}
+
+#page-head.shop {
+
+}
+
+#page-head.news {
+ 
+}
+
+
+#page-head.food-waste {
+
+}
+
+
+.sp-logo {
+	display: block;
+    position: absolute;
+    left: 40px;
+    top: 40px;
+    width: 120px;
+}
+
+.page-head-text {
+
+}
+
+.page-head-text-en {
+
+}
+
+.page-head-text-jp{
+ 
+}
+
+
+/* food waste ---------------------*/
+
+.figure-chain-flow {
+
+}
+
+
+.figure-chain-flow-title {
+
+}
+
+.figure-chain-flow-item {
+
+}
+
+.figure-chain-flow-item img{
+
+}
+
+
+
+.arrow-yellow{
+
+}
+
+.arrow-yellow:after {
+
+}
+
+
+.figure-chain-flow-txt {
+
+}
+
+
+
+.figure-chain-desc {
+
+}
+
+
+.figure-chain-desc:before {
+
+}
+
+
+
+
+.figure-chain-ex-title {
+
+}
+
+.figure-chain-ex-item {
+
+}
+
+.figure-chain-ex-item:nth-child(n+4){
+
+}
+
+.figure-chain-ex-item img {
+
+}
+
+
+.figure-chain-ex-txt {
+ 
+}
+
+
+.headline-waste-bnr{
+
+}
+
+/* news---------------------*/
+
+
+.news-wrap {
+
+}
+
+/* ===========================================================
+
+contact
+
+============================================================ */
+
+.contact-desc {
+
+}
+    
+.form-contents{
+
+}
+
+
+/*reset*/
+
+input:focus,textarea:focus{ 
+
+}
+select:focus{
+
+}
+input[type=radio], input[type=checkbox]{
+
+}
+
+/*reset*/
+
+
+.form-label {
+   
+}
+
+
+.text-box, .text-area {
+   
+}
+
+.text-box {
+ 
+}
+
+.text-area {
+
+}
+
+
+.send{
+
+}
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media only screen and (max-width: 580px) {
+
+html {
+    font-size: 500%;
+}
+
+
+
+body{
+
+}
+
+
+/* ============================================================
+
+set
+
+============================================================ */
+
+a{
+}
+
+ul{
+
+}
+
+ul li{
+
+}
+
+.mw {
+
+}
+
+.ri{
+
+}
+
+
+.pc{
+	display: none;
+
+} 
+
+.sp{
+	display: block;
+} 
+
+.b-r5{
+
+}
+
+.b-r10{
+
+}
+
+.b-r20{
+
+}
+.m-t {
+    margin-top: 20px !important;
+}
+.m-b {
+    margin-bottom: 20px !important;
+}
+
+/*---------------------------------
+hamburger
+---------------------------------*/
+
+.hamburger-box {
+	display: block;
+}
+
+
+.hamburger,
+.hamburger span {
+}
+
+
+.hamburger {
+
+}
+
+
+.hamburger span {
+
+}
+.hamburger span:nth-of-type(1) {
+}
+.hamburger span:nth-of-type(2) {
+
+}
+.hamburger span:nth-of-type(3) {
+
+}
+
+
+
+.hamburger.active {
+
+}
+
+
+
+.hamburger.active span:nth-of-type(1) {
+
+}
+
+.hamburger.active span:nth-of-type(2) {
+
+}
+
+@-webkit-keyframes active-menu-bar02 {
+	100% {
+	}
+}
+@keyframes active-menu-bar02 {
+	100% {
+
+	}
+}
+.hamburger.active span:nth-of-type(3) {
+
+}
+
+
+/*--------------------------------------------------
+	
+common
+
+--------------------------------------------------*/
+#wrapper {
+    width: 100%;
+}
+
+
+.inner.news {
+	width: 100%;
+}
+
+
+
+    
+
+/* button ---------------------*/
+.button-area {
+    text-align: center;
+    padding:0;
+}
+
+.button {
+    padding: 14px 20px 12px;
+    margin: 0 5px;
+    border-radius: 100px;
+    -webkit-border-radius: 100px;
+    -moz-border-radius: 100px;
+}
+
+.button.long {
+    width: 100%;
+    margin: 0;
+    margin-bottom: 15px;
+}
+
+.button.long:last-child {
+    margin-bottom:0;
+}
+
+
+.button.dark-red {
+
+}
+
+
+.button.ocher{
+
+}
+
+
+.button.white {
+ 
+}
+/* 2col ---------------------*/
+
+.item-2col {
+
+}
+
+.item-2col:nth-child(2n) {
+ 
+}
+
+
+/* 3col ---------------------*/
+
+.item-3col {
+    width: 100%;
+    margin-right: auto;
+     margin-bottom: 20px;   
+}
+
+.item-3col:nth-child(3n) {
+
+}
+
+
+/* 4col ---------------------*/
+
+.item-4col {
+    width: 47.5%;
+    margin-right: 5%;
+}
+
+.item-4col:nth-child(2n) {
+    margin-right: 0;
+}
+.item-4col:nth-child(4n) {
+
+}
+
+.item-flow {
+    width:100%;
+}
+
+
+
+/* 6col ---------------------*/
+
+.item-6col {
+    width: 21.25%;
+    margin-right: 5%;
+    float: left;
+}
+
+.item-6col:nth-child(6n) {
+	margin-right: 5%;
+}
+.item-6col:nth-child(4n) {
+	margin-right: 0;
+}
+
+.item-6col img {
+    margin-bottom: 20px;
+}
+/* illust-3col ---------------------*/
+
+.item-illust-3col {
+
+}
+
+.item-title {
+
+}
+
+.item-desc {
+}
+
+
+.item-day {
+
+}
+
+.news-thumb {
+
+}
+
+/* illust-4col ---------------------*/
+
+.item-illust-4col {
+
+}
+
+.item-illust-flow {
+    width: 60%;
+}
+
+.item-title {
+
+}
+
+/* banner download2 ---------------------*/
+
+
+.bnr-download2-img {
+    height: 200px;
+}
+
+.bnr-download2-head {
+    padding: 0 30px;
+}
+
+
+.bnr-download2-head-title {
+    font-weight: bold;
+    font-size: 0.2rem;
+    letter-spacing: 0.02rem;
+    line-height: 1.7em;
+    margin-bottom: 5px;
+}
+
+.bnr-download2-head-desc {
+    font-size: 0.12rem;
+    line-height: 2em;
+}
+
+.bnr-download2-badge {
+    width: 260px;
+}
+
+/* illust ---------------------*/
+
+.item-illust {
+
+}
+
+.item-title {
+
+}
+
+/* headline ---------------------*/
+
+.headline {
+    padding: 40px 0 40px;
+    margin-top: 70px;
+}
+
+.headline.white > *{
+
+}
+
+.headline-en{
+	font-size: 0.16rem;
+}
+
+.headline-en:before {
+    height: 10px;
+    left: -15px;
+    top: 4px;
+}
+
+.headline-en:after {
+	height:10px;
+    right: -15px;
+    top: 4px;
+}
+
+.headline.white > .headline-en:before{
+
+}
+.headline.white > .headline-en:after{
+ 
+}
+
+
+
+.headline-jp {
+    margin-top: 5px;
+}
+
+/* headline-foodwaste ---------------------*/
+
+.headline-waste {
+	padding: 20px 0 20px;
+}
+
+.number {
+
+}
+
+
+.headline-waste-txt {
+
+}
+
+
+.headline-waste-en{
+ 
+}
+
+
+.headline-waste-jp {
+
+}
+
+
+.illust-left {
+    width: 100%;
+}
+
+.illust-right {
+	 width: 100%;
+}
+
+
+.article-right {
+    width: 100%;
+}
+
+.article-left {
+    width: 100%;
+}
+
+.article-center{
+
+}
+
+.gray-back {
+
+}
+
+/* header banner---------------------*/
+
+.head-bnr{
+	padding: 30px 20px;
+	transform: translateY(-60px);
+    margin-bottom: -60px;
+}
+
+
+.head-bnr.home {
+    padding: 20px;
+    transform: translateY(-30px);
+    margin-bottom: -30px;
+}
+
+.head-bnr.page{
+
+}
+
+.head-bnr:before {
+    width: 500px;
+    height: 500px;
+}
+
+.head-bnr:after {
+     width: 500px;
+    height: 500px;
+}
+
+/* home---------*/
+.bnr-download1-mock {
+    margin: 0 auto;
+    width: 45%;
+    float: none;
+}
+
+.bnr-download1-mock img {
+	width: 100%;
+	height: auto;
+}
+.bnr-download1-info {
+    width: 100%;
+    margin-top: 20px;
+}
+
+.bnr-download1-logo {
+	width: 120px;
+}
+
+.bnr-download1-text {
+    text-align: center;
+    font-size: 0.14rem;
+    line-height: 1.8em;
+    color: #ffffff;
+    font-weight: 600;
+    margin: 20px 0;
+    letter-spacing: 0.01rem;
+}
+
+.bnr-download1-badge {
+    width: 260px;
+    margin-bottom: 10px;
+}
+
+.bnr-download1-badge a {
+
+}
+
+.bnr-download1-badge a:first-child {
+
+}
+/* page---------*/
+
+.head-bnr-txt-left {
+    width: 100%;
+    padding-left: 0;
+    margin-top: 0;
+    font-size: 0.14rem;
+}
+
+
+.head-bnr-txt-right {
+    width: 100%;
+    padding: 0 0px 30px;
+}
+
+
+/*  banner food waste  ---------------------*/
+
+.bnr-foodwaste {
+    height: auto;
+    padding: 0 5% 30px;
+}
+
+.bnr-foodwaste-head {
+    width: 50%;
+    font-size: .12rem;
+    letter-spacing: 0;
+}
+
+.bnr-foodwaste-logo {
+    width: 50%;
+    padding: 0px 5%;
+}
+
+
+/* banner shop ---------------------*/
+
+.bnr-shop {
+    padding: 0 20px 40px;
+}
+
+/* price text ---------------------*/
+
+
+.price-text {
+    width: 100%;
+    margin-top: 0px;
+}
+
+
+.price-headline {
+    font-size: 0.16rem;
+    letter-spacing:0;
+    margin-bottom: 15px;
+}
+
+.price-illust {
+    width: 100%;
+    padding: 0 10px 10px;
+}
+
+/* FAQ ---------------------*/
+
+.accordion ul {
+
+}
+.accordion li {
+
+}
+.accordion li:first-child {
+
+}
+
+.accordion > ul > li > a {
+    padding: 1.2em 0;
+}
+.accordion > ul > li > a h5:hover {
+
+}
+.accordion > ul > li > p {
+  
+}
+
+.accordion li .accordion_icon,
+.accordion li .accordion_icon span {
+
+}
+.accordion li .accordion_icon {
+    position: absolute;
+    width: 10px;
+    height: 10px;
+    top: 25px;
+    right: 15px;
+}
+
+
+.accordion li .accordion_icon span {
+
+}
+.accordion li .accordion_icon span:nth-of-type(1) {
+
+}
+.accordion li .accordion_icon span:nth-of-type(2) {
+
+}
+.accordion li .accordion_icon.active span:nth-of-type(1) {
+
+}
+.accordion li .accordion_icon.active span:nth-of-type(2) {
+
+}
+
+
+
+/*--------------------------------------------------
+	
+layout
+
+--------------------------------------------------*/
+
+
+/*--------------------------------
+side bar
+--------------------------------*/
+
+.side-cover{
+	display: none;
+	position: fixed;
+	z-index: 999;
+	width: 100%;
+	height: 100vh;
+	overflow: hidden;
+	transition: all .6s; 
+}
+
+.side-cover.open{
+
+	background: rgba(0, 0, 0, 0.5);
+
+}
+
+.side-nav {
+    overflow: scroll;
+    padding: 30px;
+    width: calc(100% - 90px);
+    margin-left: -90%;
+	transition: all .6s;    
+}
+
+.side-nav.open {
+	 margin-left: 0;
+	
+}
+
+
+/* footer-logo ---------------------*/
+
+#logo {
+    width: 60%;
+    margin-top: 10px;
+}
+
+h1 {
+ 
+}
+
+
+/* nav ---------------------*/
+
+.side-nav-menu {
+
+}
+
+.side-nav-menu li {
+
+}
+
+.side-nav-menu li a{
+ 
+}
+
+
+.menu-icon {
+ 
+}
+
+/* side bottom ---------------------*/
+
+.side-nav-bottom {
+
+}
+
+
+.side-sns {
+
+}
+
+.side-sns-shareme {
+
+}
+
+.icon-sns {
+    padding-top: 6px;	
+	padding-left: 0;
+}
+
+
+
+
+.side-banner{
+
+}
+
+.side-app {
+ 
+}
+
+
+.side-app-icon {
+ 
+}
+
+.side-app-text{
+   
+}
+
+
+.side-app-banner {
+
+}
+
+.side-app-banner a {
+
+}
+.side-app-banner a:first-child {
+
+}
+
+
+
+/*--------------------------------
+footer
+--------------------------------*/
+footer{
+	padding: 25px 0;
+}
+
+.footer-nav-menu {
+    width: 50%;
+}
+
+.footer-nav-menu:last-child {
+    width: 100%;
+    text-align: center;
+    padding-top: 40px;
+}
+
+.footer-nav-menu li {
+
+}
+
+.footer-nav-menu li a{
+
+}
+
+.footer-logo {
+    width: 100px;
+    margin: 25px auto;
+}
+
+
+
+.sns {
+ 
+}
+
+.sns ul li {
+
+}
+.footer-sns {
+    float: none;
+    padding-top: 7px;
+    margin: 0 7px;
+    font-size: 0.16rem;
+}
+.copyright{
+
+
+}
+
+
+/*--------------------------------
+home
+--------------------------------*/
+
+#main-visual {
+    height: 100vh;
+    background:url("../images/yatai.jpg") ;
+	background-position: center center;
+	background-size:cover;
+    color:#fff;
+	position:relative;
+}
+
+.main-visual-text {
+    height: 175px;
+}
+
+.main-visual-head {
+    font-size: 0.22rem;
+    letter-spacing: 0.05rem;
+    margin-bottom: 10px;
+}
+
+
+.main-visual-desc {
+    font-size: 0.13rem;
+    letter-spacing: 0.02rem;
+}
+.scroll {
+
+}
+
+.scroll:after {
+
+}
+
+/* news list---------*/
+
+
+.news-list {
+    display: flex;
+    overflow-x: scroll;
+    margin: 0;
+    padding: 0;
+    padding-left: 5%;
+    margin-bottom: 10px;
+}
+.news-list-item{
+    min-width: 80%;
+    padding-right: 5%;
+    list-style: none;
+    width: 100%;
+    margin-right: auto;
+    margin-bottom: 20px;   
+}
+    
+/* user merit---------*/
+
+
+    
+.user-merit-item {
+    width: 100%;
+    margin-right: auto;
+     margin-bottom: 20px;  
+}
+
+.user-merit-item:nth-child(3n) {
+
+}    
+    
+
+.flow{
+
+}
+
+.flow:after {
+	display: none;
+}
+
+
+.flow:last-child:after {
+
+}
+
+
+/* award---------*/   
+    
+.award-item {
+	width: 47.5%;
+	margin-right: 5%;
+	margin-bottom: 10px;
+}
+
+.award-item:nth-child(3n) {
+		margin-right: 5%;
+}
+
+
+.award-item:nth-child(2n) {
+	margin-right: 0;
+}
+
+.item-illust-award {
+    padding: 10px 20px;
+    width: 100%;
+}
+
+.award-text {
+	width: 100%;
+	margin-bottom: 0;
+}
+
+
+
+/* gov---------*/   
+    
+.gov-item {
+	width: 47.5%;
+	margin-right: 5%;
+	margin-bottom: 10px;
+}
+
+.gov-item:nth-child(3n) {
+		margin-right: 5%;
+}
+
+
+.gov-item:nth-child(2n) {
+	margin-right: 0;
+}
+
+.gov-item:last-child {
+	margin-bottom: 30px;
+}
+
+.item-illust-gov {
+    padding: 20px 45px;
+    width: 100%;
+}
+
+.gov-text {
+	width: 100%;
+	margin-bottom: 0;
+}
+
+
+
+
+/*--------------------------------
+page
+--------------------------------*/
+
+#page-head {
+    height: 200px;
+ 
+}
+
+#page-head.shop {
+    background-position-x: -140px;
+    background-size: 140%;
+}
+
+
+#page-head.food-waste {
+    background-position-x: -140px;
+    background-size: 140%;
+}
+
+#page-head.news {
+    background-position-x: -140px;
+    background-size: 140%;
+}
+
+
+#page-head.faq {
+    background-position-x: -140px;
+    background-size: 140%;
+}
+
+#page-head.contact {
+    background-position-x: -140px;
+    background-size: 140%;
+}
+
+
+.sp-logo {
+    display: block;
+    position: absolute;
+    left: 20px;
+    top: 22px;
+    width: 100px;
+}
+
+.page-head-text {
+    margin-top: 90px;
+}
+
+.page-head-text-en {
+    margin-bottom: 5px;
+    width: 175px;
+}
+
+.page-head-text-jp{
+	 font-size: 0.24rem
+}
+
+
+/* food waste ---------------------*/
+
+.figure-chain-flow {
+    padding: 30px;
+}
+.figure-chain-flow-title {
+	margin-bottom: 15px;
+}
+
+.figure-chain-flow-item {
+
+}
+
+.figure-chain-flow-item img{
+
+}
+
+
+
+.arrow-yellow{
+
+}
+
+.arrow-yellow:after {
+
+}
+
+
+.figure-chain-flow-txt {
+
+}
+
+
+
+.figure-chain-desc {
+	padding: 20px;
+}
+
+
+.figure-chain-desc:before {
+	width: 40px;
+    height: 40px;
+    left: calc(50% - 20px);
+}
+
+
+
+.figure-chain-ex-title {
+    margin: 10px 0 25px;
+}
+
+.figure-chain-ex-item {
+    width: 47.5%;
+    margin-right: 5%;
+    margin-bottom: 5%;
+}
+.figure-chain-ex-item:nth-child(2n){
+    margin-right: 0;
+}
+
+
+.figure-chain-ex-item:nth-child(n+4){
+    margin-bottom: 5%;
+}
+
+.figure-chain-ex-item:nth-child(n+6){
+    margin-bottom: 0;
+}
+
+
+
+.figure-chain-ex-item img {
+    width: 70%;
+}
+
+
+.figure-chain-ex-txt {
+ 
+}
+
+
+.headline-waste-bnr{
+
+}
+
+/* news---------------------*/
+
+
+.news-wrap {
+
+}
+
+/* ===========================================================
+
+contact
+
+============================================================ */
+
+.contact-desc {
+    padding: 0 5%;
+}
+    
+.form-contents{
+
+}
+
+
+/*reset*/
+
+input:focus,textarea:focus{ 
+
+}
+select:focus{
+
+}
+input[type=radio], input[type=checkbox]{
+
+}
+
+/*reset*/
+
+
+.form-label {
+   
+}
+
+
+.text-box, .text-area {
+   
+}
+
+.text-box {
+ 
+}
+
+.text-area {
+
+}
+
+
+.send{
+
+}
+
+
+
+}
+
