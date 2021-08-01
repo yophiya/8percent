@@ -670,6 +670,21 @@ common
     padding: 25px;
 }
 
+.image-left {
+    float: left;
+    width: 50%;
+    margin-bottom: 25px;
+}
+
+.explain-right {
+    float: right;
+    width: 40%;
+    margin-bottom: 25px;
+    font-weight: bold;
+    padding: 5%;
+
+}
+
 
 /* header banner---------------------*/
 

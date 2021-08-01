@@ -1437,6 +1437,16 @@ common
     width: 100%;
 }
 
+.image-left {
+    width: 100%;
+}
+
+.explain-right {
+    width: 80%;
+    padding: 10%;
+
+}
+
 .article-center{
 
 }
