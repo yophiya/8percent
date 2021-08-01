@@ -606,6 +606,10 @@ common
     height: 50px;
 }
 
+.space{
+    margin-bottom: 50px;
+}
+
 .kikkake-left{
     float: left;
     width: 30%;
@@ -679,7 +683,6 @@ common
 .explain-right {
     float: right;
     width: 40%;
-    margin-bottom: 25px;
     font-weight: bold;
     padding: 5%;
 
