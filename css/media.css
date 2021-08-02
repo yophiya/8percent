@@ -1455,6 +1455,21 @@ common
 
 }
 
+.format-left{
+    float: left;
+    width: 90%;
+    padding-right: 5%;
+    padding-left: 5%;
+    
+}
+
+.format-right{
+    float: right;
+    width: 90%;
+    padding-right: 5%;
+    padding-left: 5%;
+}
+
 /* header banner---------------------*/
 
 .head-bnr{

@@ -540,12 +540,12 @@ common
     font-size: 18px;
     font-weight: 600;
     text-align: center;
+    margin-top: 50px;
 }
 
 .headline {
     font-size: 18px;
     margin-top: 50px;
-    margin-bottom: 50px;
     font-weight: 600;
     text-align: center;
 }
@@ -567,7 +567,15 @@ common
     display: inline-block;
     width: 100%;
     font-size: 20px;
+}
 
+.headline-contact{
+    padding: 5px;/*文字周りの余白*/
+    border-left: solid 5px #ffa500;/*左線（実線 太さ 色）*/
+    height: 30px;
+    display: inline-block;
+    width: 100%;
+    font-size: 20px;
 }
 
 .pattern2{
@@ -596,10 +604,6 @@ common
 .headline-waste-jp {
     font-size: .2rem;
     text-align: center;
-}
-
-.kikkake{
-    margin-bottom: 70px;
 }
 
 .empty{
@@ -648,7 +652,6 @@ common
 .article{
     padding: 25px;
     background-color: #f7f7f7;
-    margin-bottom: 25px;
     font-weight: bold;
 }
 
@@ -692,6 +695,27 @@ common
 
 }
 
+.adress{
+    color: cornflowerblue;
+}
+
+.format-left{
+    float: left;
+    width: 46%;
+    padding: 2%;
+}
+
+.format-right{
+    float: right;
+    width: 46%;
+    padding: 2%;
+}
+
+.mail-head{
+    font-size: 18px;
+
+}
+
 
 /* header banner---------------------*/
 
@@ -706,7 +730,8 @@ common
     font-weight: bold;
     display: block;
     margin-left: auto;
-    margin-right: auto
+    margin-right: auto;
+    margin-bottom: -70px;
 }
 
 
