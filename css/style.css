@@ -607,6 +607,10 @@ common
 }
 
 .space{
+    margin-bottom: 25px;
+}
+
+.space1{
     margin-bottom: 50px;
 }
 
@@ -682,9 +686,9 @@ common
 
 .explain-right {
     float: right;
-    width: 40%;
+    width: 46%;
     font-weight: bold;
-    padding: 5%;
+    padding: 2%;
 
 }
 

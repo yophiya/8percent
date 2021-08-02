@@ -1442,8 +1442,8 @@ common
 }
 
 .explain-right {
-    width: 80%;
-    padding: 10%;
+    width: 90%;
+    padding: 5%;
 
 }
 
@@ -2171,3 +2171,6 @@ input[type=radio], input[type=checkbox]{
     margin-bottom: 0px;
 }
 
+.space1{
+    margin-bottom: 0px;
+}
