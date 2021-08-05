@@ -286,8 +286,7 @@ common
 .inner {
     width: 90%;
     max-width: 1260px;
-    margin-left: 5%;
-    margin-right: 5%;
+    margin: 0 auto;
     
 }
 
@@ -605,6 +604,7 @@ common
     font-size: .2rem;
     text-align: center;
 }
+
 
 .empty{
     height: 50px;
