@@ -1478,28 +1478,28 @@ home
 }
 
 
-/* award---------*/   
+/* sponsar---------*/   
     
-.award-item {
+.sponsar-item {
     width: 30%;
     margin-right: 5%;
     margin-bottom: 25px;
     float: left;
 }
 
-.award-item:nth-child(3n) {
+.sponsar-item:nth-child(3n) {
     margin-right: 0;
 }
 
 
-.item-illust-award {
+.item-illust-sponsar {
     width: 100%;
     float: left;
     padding: 0px 50px 20px;
     box-sizing: border-box;
 }
 
-.award-text {
+.sponsar-text {
     width: 100%;
     float: right;
     margin-bottom: 50px;

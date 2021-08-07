@@ -316,21 +316,21 @@ common
 
 }
 
-/* award ---------------------*/
-.item-illust-award {
+/* sponsar ---------------------*/
+.item-illust-sponsar {
 
 }
 
-.award-text {
+.sponsar-text {
 
 }
 
 /* media ---------------------*/
-.item-illust-award {
+.item-illust-sponsar {
 
 }
 
-.award-text {
+.sponsar-text {
 
 }
 
@@ -1916,29 +1916,29 @@ home
 }
 
 
-/* award---------*/   
+/* sponsar---------*/   
     
-.award-item {
+.sponsar-item {
 	width: 47.5%;
 	margin-right: 5%;
 	margin-bottom: 10px;
 }
 
-.award-item:nth-child(3n) {
+.sponsar-item:nth-child(3n) {
 		margin-right: 5%;
 }
 
 
-.award-item:nth-child(2n) {
+.sponsar-item:nth-child(2n) {
 	margin-right: 0;
 }
 
-.item-illust-award {
+.item-illust-sponsar {
     padding: 10px 20px;
     width: 100%;
 }
 
-.award-text {
+.sponsar-text {
 	width: 100%;
 	margin-bottom: 0;
 }
