@@ -821,7 +821,7 @@ common
     width: 50%;
     height: 380px;
     float: left;
-	background:url("../images/yatai.jpg") ;
+	background:url("../images/top-pc.jpg") ;
 	background-position: center center;
 	background-size:cover;
 	position: relative;
@@ -920,7 +920,7 @@ common
 
 .bnr-shop {
     width: 100%;
-    background: url(../images/yatai.jpg);
+    background: url(../images/top-pc.jpg);
     background-position: center center;
     background-size: cover;
     overflow: hidden;
@@ -1290,7 +1290,7 @@ home
 	height: 80vh;
 	overflow:hidden;
 	*zoom:1;
-	background:url("../images/yatai.jpg") ;
+	background:url("../images/top-pc2.png") ;
 	background-position: center center;
 	background-size:cover;
     color:#fff;
@@ -1305,21 +1305,31 @@ home
     margin: auto;
     width: 100%;
     height: 235px;
+    
 }
 
 .main-visual-head {
     font-size: 0.28rem;
-    line-height: 1.7em;
     letter-spacing: 0.05rem;
     font-weight: 600;
     margin-bottom: 20px;
+    background-color: #ffa500;
+}
+
+.main-visual-head2 {
+    font-size: 0.16rem;
+    letter-spacing: 0.03rem;
+    font-weight: 600;
+    background-color: #ffa500;
+    padding: 0.1rem;
 }
 
 .main-visual-desc {
     font-size: 0.16rem;
-    line-height: 2em;
     letter-spacing: 0.03rem;
     font-weight: 600;
+    background-color: #ffa500;
+    margin-bottom: 20px;
 }
 
 .scroll {
@@ -1549,41 +1559,30 @@ page
     position: relative;
 }
 
-#page-head.shop {
-    background: url(../images/yatai.jpg);
+
+#page-head.about8percent {
+    background: url(../images/about8percent.png);
     background-position: center center;
     background-size: cover;
 }
 
-
-#page-head.food-waste {
-    background: url(../images/yatai.jpg);
+#page-head.menu {
+    background: url(../images/menu.png);
     background-position: center center;
     background-size: cover;
 }
 
-#page-head.news {
-    background: url(../images/yatai.jpg);
+#page-head.forUs {
+    background: url(../images/forUs.png);
     background-position: center center;
     background-size: cover;
 }
-
-
-
-#page-head.faq {
-    background: url(../images/yatai.jpg);
-    background-position: center center;
-    background-size: cover;
-}
-
 
 #page-head.contact {
-    background: url(../images/yatai.jpg);
+    background: url(../images/contact.png);
     background-position: center center;
     background-size: cover;
 }
-
-
 
 .sp-logo {
    display: none;

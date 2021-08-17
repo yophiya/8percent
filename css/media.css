@@ -1837,7 +1837,7 @@ home
 
 #main-visual {
     height: 100vh;
-    background:url("../images/yatai.jpg") ;
+    background:url("../images/top-mobile.png") ;
 	background-position: center center;
 	background-size:cover;
     color:#fff;
@@ -2011,7 +2011,6 @@ page
 }
 
 #page-head.contact {
-    background-position-x: -140px;
     background-size: 140%;
 }
 
