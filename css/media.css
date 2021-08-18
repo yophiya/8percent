@@ -2188,3 +2188,18 @@ input[type=radio], input[type=checkbox]{
 .space1{
     margin-bottom: 50px;
 }
+
+.loader {
+    margin: 0px auto;
+    width: 300px;
+    height: 300px;
+    border-radius: 100%;
+    position: relative;
+    top: 50%;
+    margin-top: -80px;
+    -webkit-animation: load3 1s infinite linear;
+    animation: load3 1s infinite linear;
+    -webkit-transform: translateZ(0);
+    -ms-transform: translateZ(0);
+    transform: translateZ(0);
+}

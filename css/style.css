@@ -162,8 +162,8 @@ ul li{
 
 .loader {
     margin: 0px auto;
-    width: 160px;
-    height: 160px;
+    width: 500px;
+    height: 500px;
     border-radius: 100%;
     position: relative;
     top: 50%;
