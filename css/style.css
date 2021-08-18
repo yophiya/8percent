@@ -153,8 +153,7 @@ ul li{
   left: 50%;
   width: 160px;
   height: 160px;
-  margin-top: -80px;
-  margin-left: -80px;
+
   text-align: center;
   color: #fff;
   z-index: 2;
@@ -166,8 +165,7 @@ ul li{
     height: 500px;
     border-radius: 100%;
     position: relative;
-    top: 50%;
-    margin-top: -80px;
+    top: 25%;
     -webkit-animation: load3 1s infinite linear;
     animation: load3 1s infinite linear;
     -webkit-transform: translateZ(0);
